@@ -59,17 +59,11 @@ Multiple survey versions
 
 Behavioral traces usable as ML features
 
-Automated TUS Method Scores
-
-Starmie
-
-SANTOS
-
-D3L
+Automated TUS Method Scores: Starmie, SANTOS, D3L. 
 
 Scores from these methods are provided in Compiled_Version_TUS.xlsx.
 
-ML Models Across Four Scenarios
+ML Models Across Four Scenarios:
 
 Scenario 1: prediction using single human input
 
