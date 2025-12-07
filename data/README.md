@@ -76,7 +76,7 @@ Research on survey behavior patterns
 
 # 5. RS_Compiled Version.xlsx
 
-A cleaned and simplified version of the compiled dataset used by the research supervisor (RS).
+A cleaned and simplified version of the compiled dataset.
 Maintains the same row-level granularity but may include:
 
 Additional quality-control annotations
