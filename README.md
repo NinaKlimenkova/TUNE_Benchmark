@@ -43,7 +43,7 @@ TUNE (Table Unionability Evaluation) is a benchmark designed to answer a foundat
 
 How do humans, automated TUS methods, and machine-learning models reason about table unionability—and what happens when we combine them?
 
-TUNE uniquely brings together:
+# TUNE uniquely brings together:
 
 Human Behavioral Data
 
@@ -63,7 +63,7 @@ Automated TUS Method Scores: Starmie, SANTOS, D3L.
 
 Scores from these methods are provided in Compiled_Version_TUS.xlsx.
 
-ML Models Across Four Scenarios:
+# ML Models Across Four Scenarios:
 
 Scenario 1: prediction using single human input
 
